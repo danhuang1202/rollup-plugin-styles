@@ -1,5 +1,5 @@
 {
-  "name": "rollup-plugin-styles",
+  "name": "@chaochan-huang/rollup-plugin-styles",
   "version": "4.0.0",
   "description": "Universal Rollup plugin for styles: PostCSS, Sass, Less, Stylus and more",
   "keywords": [

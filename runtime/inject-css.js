@@ -32,6 +32,8 @@ export default function (css, options) {
         styleTag.setAttribute(k[i], options.attributes[k[i]]);
       }
     }
+    // eslint-disable-next-line no-undef
+    if (typeof __webpack_nonce__ !== "undefined") styleTag.setAttribute("nonce", __webpack_nonce__);
     var pos = position === "prepend" ? "afterbegin" : "beforeend";
     container.insertAdjacentElement(pos, styleTag);
     return styleTag;

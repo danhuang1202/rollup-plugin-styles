@@ -8,6 +8,15 @@
 [![license](https://img.shields.io/github/license/danhuang1202/rollup-plugin-styles)](./LICENSE)
 [![financial contributors](https://opencollective.com/rollup-plugin-styles/tiers/badge.svg)](https://opencollective.com/rollup-plugin-styles)
 
+<br>
+
+> ### This package is forked from [rollup-plugin-styles](https://github.com/Anidetrix/rollup-plugin-styles) and supportss for
+>
+> 1. rollup@3
+> 2. CSP. Abale to set nonce to style tag by setting ˋ**webpack_nonce**ˋ variable.
+
+<br>
+
 ### 🎨 Universal [Rollup](https://github.com/rollup/rollup) plugin for styles:
 
 - [PostCSS](https://github.com/postcss/postcss)

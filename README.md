@@ -44,18 +44,18 @@
 
 ```bash
 # npm
-npm install -D rollup-plugin-styles
+npm install -D @chaochan-huang/rollup-plugin-styles
 # pnpm
-pnpm add -D rollup-plugin-styles
+pnpm add -D @chaochan-huang/rollup-plugin-styles
 # yarn
-yarn add rollup-plugin-styles --dev
+yarn add @chaochan-huang/rollup-plugin-styles --dev
 ```
 
 ## Usage
 
 ```js
 // rollup.config.js
-import styles from "rollup-plugin-styles";
+import styles from "@chaochan-huang/rollup-plugin-styles";
 
 export default {
   output: {
@@ -153,7 +153,7 @@ styles({
 
 ```js
 // rollup.config.js
-import styles from "rollup-plugin-styles";
+import styles from "@chaochan-huang/rollup-plugin-styles";
 
 // Any plugin which consumes pure CSS
 import litcss from "rollup-plugin-lit-css";

@@ -3,9 +3,9 @@
 [![npm version](https://img.shields.io/npm/v/rollup-plugin-styles)](https://www.npmjs.com/package/rollup-plugin-styles)
 [![monthly downloads count](https://img.shields.io/npm/dm/rollup-plugin-styles)](https://www.npmjs.com/package/rollup-plugin-styles)
 [![required rollup version](https://img.shields.io/npm/dependency-version/rollup-plugin-styles/peer/rollup)](https://www.npmjs.com/package/rollup)
-[![build status](https://github.com/Anidetrix/rollup-plugin-styles/workflows/CI/badge.svg)](https://github.com/Anidetrix/rollup-plugin-styles/actions?query=workflow%3ACI)
-[![code coverage](https://codecov.io/gh/Anidetrix/rollup-plugin-styles/branch/main/graph/badge.svg)](https://codecov.io/gh/Anidetrix/rollup-plugin-styles)
-[![license](https://img.shields.io/github/license/Anidetrix/rollup-plugin-styles)](./LICENSE)
+[![build status](https://github.com/danhuang1202/rollup-plugin-styles/workflows/CI/badge.svg)](https://github.com/danhuang1202/rollup-plugin-styles/actions?query=workflow%3ACI)
+[![code coverage](https://codecov.io/gh/danhuang1202/rollup-plugin-styles/branch/main/graph/badge.svg)](https://codecov.io/gh/danhuang1202/rollup-plugin-styles)
+[![license](https://img.shields.io/github/license/danhuang1202/rollup-plugin-styles)](./LICENSE)
 [![financial contributors](https://opencollective.com/rollup-plugin-styles/tiers/badge.svg)](https://opencollective.com/rollup-plugin-styles)
 
 ### 🎨 Universal [Rollup](https://github.com/rollup/rollup) plugin for styles:

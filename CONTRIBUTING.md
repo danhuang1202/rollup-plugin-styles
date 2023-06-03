@@ -18,7 +18,7 @@ You can file bug reports, the more details you can give the better
 
 ## Code
 
-Take a look at the [open issues](https://github.com/Anidetrix/rollup-plugin-styles/issues), see if anything matters to you, and provide feedback or even make your own changes and file a Pull request
+Take a look at the [open issues](https://github.com/danhuang1202/rollup-plugin-styles/issues), see if anything matters to you, and provide feedback or even make your own changes and file a Pull request
 
 ## Ideas
 

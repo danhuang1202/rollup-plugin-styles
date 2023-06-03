@@ -10,7 +10,7 @@
 
 <br>
 
-> ### This package is forked from [rollup-plugin-styles](https://github.com/Anidetrix/rollup-plugin-styles) and add supports for
+> ### This package is forked from [rollup-plugin-styles](https://github.com/Anidetrix/rollup-plugin-styles) and the new package name is [@chaochan-huang/rollup-plugin-styles](https://www.npmjs.com/package/@chaochan-huang/rollup-plugin-styles). This new package add supports for
 >
 > 1. rollup@3
 > 2. Adding nonce to style tag by setting ˋ__webpack_nonce__ˋ variable.

@@ -1,3 +1,26 @@
+# [5.0.0](https://github.com/danhuang1202/rollup-plugin-styles/compare/v4.0.0...v5.0.0) (2023-06-03)
+
+
+### Bug Fixes
+
+* **csp:** set nonce to style tag from __webpack_nonce__ in run time ([16110e7](https://github.com/danhuang1202/rollup-plugin-styles/commit/16110e7505243fb7d1c2e15091de7c253018161e))
+* function name typo ([d7574fb](https://github.com/danhuang1202/rollup-plugin-styles/commit/d7574fbc7844111a67cac51c4182da295d830a8c))
+* prioritize `sass` over `node-sass` ([e9a93ef](https://github.com/danhuang1202/rollup-plugin-styles/commit/e9a93ef27b97601a09fd3806d0aba456d04a1608))
+* **treeshakable:** use es5 syntax for treeshakable object ([#177](https://github.com/danhuang1202/rollup-plugin-styles/issues/177)) ([a084834](https://github.com/danhuang1202/rollup-plugin-styles/commit/a0848342c22309c797b38897dea5cd280fcd1940))
+
+
+### Features
+
+* **resolve:** `exports` fields support (thanks [@kherock](https://github.com/kherock)) ([eb22803](https://github.com/danhuang1202/rollup-plugin-styles/commit/eb22803eec91013e4f8d8e7d5c9e35c56bf619aa))
+* respect for `.cjs` files and move towards `exports` fields ([cc391bb](https://github.com/danhuang1202/rollup-plugin-styles/commit/cc391bb2f44b84dffb9902cb86cc64e0f27e6a75))
+* **sass:** `exports` conditions ([#197](https://github.com/danhuang1202/rollup-plugin-styles/issues/197)) ([2d390de](https://github.com/danhuang1202/rollup-plugin-styles/commit/2d390de52bf6e9d3d121103530325e557187b38f))
+
+
+### BREAKING CHANGES
+
+* **resolve:** resolver now prioritizes `exports` fields before any others, including `style` inside `exports` over independent `style` field
+* `sass` is now the default Sass implementation due to `node-sass` deprecation
+
 # [4.0.0](https://github.com/Anidetrix/rollup-plugin-styles/compare/v3.14.1...v4.0.0) (2022-01-14)
 
 

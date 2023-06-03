@@ -1,8 +1,8 @@
 # rollup-plugin-styles
 
-[![npm version](https://img.shields.io/npm/v/rollup-plugin-styles)](https://www.npmjs.com/package/rollup-plugin-styles)
-[![monthly downloads count](https://img.shields.io/npm/dm/rollup-plugin-styles)](https://www.npmjs.com/package/rollup-plugin-styles)
-[![required rollup version](https://img.shields.io/npm/dependency-version/rollup-plugin-styles/peer/rollup)](https://www.npmjs.com/package/rollup)
+[![npm version](https://img.shields.io/npm/v/@chaochan-huang/rollup-plugin-styles)](https://www.npmjs.com/package/@chaochan-huang/rollup-plugin-styles)
+[![monthly downloads count](https://img.shields.io/npm/dm/@chaochan-huang/rollup-plugin-styles)](https://www.npmjs.com/package/@chaochan-huang/rollup-plugin-styles)
+[![required rollup version](https://img.shields.io/npm/dependency-version/@chaochan-huang/rollup-plugin-styles/peer/rollup)](https://www.npmjs.com/package/rollup)
 [![build status](https://github.com/danhuang1202/rollup-plugin-styles/workflows/CI/badge.svg)](https://github.com/danhuang1202/rollup-plugin-styles/actions?query=workflow%3ACI)
 [![code coverage](https://codecov.io/gh/danhuang1202/rollup-plugin-styles/branch/main/graph/badge.svg)](https://codecov.io/gh/danhuang1202/rollup-plugin-styles)
 [![license](https://img.shields.io/github/license/danhuang1202/rollup-plugin-styles)](./LICENSE)
@@ -22,20 +22,23 @@
 
 ## Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-  - [Importing a file](#importing-a-file)
-    - [CSS/Stylus](#cssstylus)
-    - [Sass/Less](#sassless)
-  - [CSS Injection](#css-injection)
-  - [CSS Extraction](#css-extraction)
-  - [Emitting processed CSS](#emitting-processed-css)
-  - [CSS Modules](#css-modules)
-  - [With Sass/Less/Stylus](#with-sasslessstylus)
-- [Configuration](#configuration)
-- [Why](#why)
-- [License](#license)
-- [Thanks](#thanks)
+- [rollup-plugin-styles](#rollup-plugin-styles)
+  - [🎨 Universal Rollup plugin for styles:](#-universal-rollup-plugin-for-styles)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Usage](#usage)
+    - [Importing a file](#importing-a-file)
+      - [CSS/Stylus](#cssstylus)
+      - [Sass/Less](#sassless)
+    - [CSS Injection](#css-injection)
+    - [CSS Extraction](#css-extraction)
+    - [Emitting processed CSS](#emitting-processed-css)
+    - [CSS Modules](#css-modules)
+    - [With Sass/Less/Stylus](#with-sasslessstylus)
+  - [Configuration](#configuration)
+  - [Why](#why)
+  - [License](#license)
+  - [Thanks](#thanks)
 
 ## Installation
 

@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@chaochan-huang/rollup-plugin-styles)](https://www.npmjs.com/package/@chaochan-huang/rollup-plugin-styles)
 [![monthly downloads count](https://img.shields.io/npm/dm/@chaochan-huang/rollup-plugin-styles)](https://www.npmjs.com/package/@chaochan-huang/rollup-plugin-styles)
-[![required rollup version](https://img.shields.io/npm/dependency-version/@chaochan-huang/rollup-plugin-styles/peer/rollup)](https://www.npmjs.com/package/rollup)
+[![required rollup version](https://img.shields.io/badge/rollup-%5E2.0.0%20%7C%7C%20%5E3.0.0-blue)](https://www.npmjs.com/package/rollup)
 [![build status](https://github.com/danhuang1202/rollup-plugin-styles/workflows/CI/badge.svg)](https://github.com/danhuang1202/rollup-plugin-styles/actions?query=workflow%3ACI)
 [![code coverage](https://codecov.io/gh/danhuang1202/rollup-plugin-styles/branch/main/graph/badge.svg)](https://codecov.io/gh/danhuang1202/rollup-plugin-styles)
 [![license](https://img.shields.io/github/license/danhuang1202/rollup-plugin-styles)](./LICENSE)

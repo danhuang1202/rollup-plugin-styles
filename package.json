@@ -42,7 +42,7 @@
     "docs": "typedoc",
     "docs:publish": "npm run docs && gh-pages -t -d docs",
     "prelint": "prettier -l --write .",
-    "lint": "eslint --report-unused-disable-directives --ext .ts,.js --fix .",
+    "lint": "eslint --report-unused-disable-directives --ext .ts,.js",
     "prepare": "is-ci || husky install",
     "prepublishOnly": "npm run build",
     "release": "semantic-release",

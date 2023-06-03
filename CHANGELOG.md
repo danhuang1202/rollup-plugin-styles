@@ -1,3 +1,11 @@
+## [5.0.1](https://github.com/danhuang1202/rollup-plugin-styles/compare/v5.0.0...v5.0.1) (2023-06-03)
+
+
+### Bug Fixes
+
+* support rollup@3 ([e21504b](https://github.com/danhuang1202/rollup-plugin-styles/commit/e21504b60a150f6d0ca4e92c31076e1c0fee676d))
+* update usage ([1baebce](https://github.com/danhuang1202/rollup-plugin-styles/commit/1baebce28f11b61c3a2f6dcef8cce599d563eb56))
+
 # [5.0.0](https://github.com/danhuang1202/rollup-plugin-styles/compare/v4.0.0...v5.0.0) (2023-06-03)
 
 

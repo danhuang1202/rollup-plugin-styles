@@ -10,10 +10,10 @@
 
 <br>
 
-> ### This package is forked from [rollup-plugin-styles](https://github.com/Anidetrix/rollup-plugin-styles) and supportss for
+> ### This package is forked from [rollup-plugin-styles](https://github.com/Anidetrix/rollup-plugin-styles) and add supports for
 >
 > 1. rollup@3
-> 2. CSP. Abale to set nonce to style tag by setting ˋ**webpack_nonce**ˋ variable.
+> 2. Adding nonce to style tag by setting ˋ__webpack_nonce__ˋ variable.
 
 <br>
 
